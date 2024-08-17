@@ -1,4 +1,4 @@
-module github.com/username6001/go-addint
+module github.com/username6001/go-addint/v2
 
 go 1.22.6
 
